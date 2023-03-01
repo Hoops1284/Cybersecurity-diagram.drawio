@@ -1,4 +1,3 @@
-graph TD
 A[Data sources]
 A1[Client systems]
 A2[Servers]
